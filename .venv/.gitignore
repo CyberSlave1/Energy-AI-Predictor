@@ -1,0 +1,39 @@
+# 🐍 Python кеші
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 🧪 Unit test / debug / ipynb
+*.ipynb_checkpoints
+*.idea/
+*.vscode/
+
+# 🔐 OS-specific
+.DS_Store
+Thumbs.db
+
+# 📦 Віртуальне середовище
+.venv/
+venv/
+ENV/
+env/
+
+# 🧠 Моделі
+*.pkl
+models/
+!models/.gitkeep
+
+# 📊 Дані
+data/*.csv
+data/*.xlsx
+data/plots/
+!data/.gitkeep
+
+# 📝 Логи
+logs/
+*.log
+
+# ⚙️ Конфігурація PyCharm (опціонально)
+*.iml
+.idea/

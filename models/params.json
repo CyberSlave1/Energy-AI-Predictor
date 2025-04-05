@@ -1,0 +1,24 @@
+{
+    "n_estimators": 500,
+    "max_depth": 15,
+    "min_samples_split": 3,
+    "min_samples_leaf": 4,
+    "max_features": null,
+    "bootstrap": false,
+    "features_used": [
+        "year",
+        "month",
+        "day",
+        "hour",
+        "is_workhour",
+        "weekday",
+        "is_weekend",
+        "is_prev_weekend",
+        "is_next_weekend",
+        "season",
+        "temp",
+        "blackout",
+        "phases",
+        "deenergized"
+    ]
+}
