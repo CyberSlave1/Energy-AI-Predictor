@@ -98,13 +98,13 @@ python main.py
 ### 🔧 Крок 2. Клонувати або завантажити цей проєкт
 З GitHub або іншим способом:
 ```bash
-git clone https://github.com/your-username/your-project-name.git
+git clone https://github.com/CyberSlave1/Energy-AI-Predictor.git
 ```
 Або просто завантаж ZIP і розпакуй.
 
 ### 🏑 Крок 3. Відкрити консоль у корені проєкту
 ```bash
-cd C:\Users\<your_name>\PycharmProjects\Energy_AI
+cd D:\Projects\Energy_AI
 ```
 
 ### 🪧 Крок 4. Створити та активувати віртуальне середовище
